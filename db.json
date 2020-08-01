@@ -83,7 +83,7 @@
     {
       "id": 8,
       "name": "Muatan Lokal"
-    } 
+    }
   ],
   "jadwal": {
     "senin": [
@@ -93,13 +93,13 @@
         "pelajaran": "Matematika",
         "jam": "07.00 - 07.35"
       },
-      
+
       {
         "id": 2,
         "plj_id": 1,
         "pelajaran": "Matematika",
         "jam": "07.35 - 08.10"
-      },    
+      },
       {
         "id": 3,
         "plj_id": 1,
@@ -118,7 +118,7 @@
         "pelajaran": "Bahasa Indonesia",
         "jam": "09.00 - 09.35"
       },
-       {
+      {
         "id": 6,
         "plj_id": 2,
         "pelajaran": "Bahasa Indonesia",
@@ -131,13 +131,13 @@
         "plj_id": 2,
         "pelajaran": "Bahasa Indonesia",
         "jam": "07.00 - 07.35"
-      },     
+      },
       {
         "id": 2,
         "plj_id": 2,
         "pelajaran": "Bahasa Indonesia",
         "jam": "07.35 - 08.10"
-      },    
+      },
       {
         "id": 3,
         "plj_id": 2,
@@ -156,7 +156,7 @@
         "pelajaran": "Matematika",
         "jam": "09.00 - 09.35"
       },
-       {
+      {
         "id": 6,
         "plj_id": 1,
         "pelajaran": "Matematika",
@@ -170,13 +170,13 @@
         "pelajaran": "Matematika",
         "jam": "07.00 - 07.35"
       },
-      
+
       {
         "id": 2,
         "plj_id": 1,
         "pelajaran": "Matematika",
         "jam": "07.35 - 08.10"
-      },    
+      },
       {
         "id": 3,
         "plj_id": 1,
@@ -195,26 +195,26 @@
         "pelajaran": "IPS",
         "jam": "09.00 - 09.35"
       },
-       {
+      {
         "id": 6,
         "plj_id": 3,
         "pelajaran": "IPS",
         "jam": "09.35 - 10.10"
       }
-    ],  
+    ],
     "kamis": [
       {
         "id": 1,
         "plj_id": 2,
         "pelajaran": "Bahasa Indonesia",
         "jam": "07.00 - 07.35"
-      },     
+      },
       {
         "id": 2,
         "plj_id": 2,
         "pelajaran": "Bahasa Indonesia",
         "jam": "07.35 - 08.10"
-      },    
+      },
       {
         "id": 3,
         "plj_id": 5,
@@ -233,7 +233,7 @@
         "pelajaran": "Keterampilan",
         "jam": "09.00 - 09.35"
       },
-       {
+      {
         "id": 6,
         "plj_id": 5,
         "pelajaran": "Keterampilan",
@@ -246,13 +246,13 @@
         "plj_id": 6,
         "pelajaran": "Penjaskes",
         "jam": "07.00 - 07.35"
-      },     
+      },
       {
         "id": 2,
         "plj_id": 6,
         "pelajaran": "Penjaskes",
         "jam": "07.35 - 08.10"
-      },    
+      },
       {
         "id": 3,
         "plj_id": 7,
@@ -278,13 +278,13 @@
         "plj_id": 4,
         "pelajaran": "IPA",
         "jam": "07.00 - 07.35"
-      },     
+      },
       {
         "id": 2,
         "plj_id": 4,
         "pelajaran": "IPA",
         "jam": "07.35 - 08.10"
-      },    
+      },
       {
         "id": 3,
         "plj_id": 8,
@@ -312,5 +312,32 @@
       "09.00 - 09.35",
       "09.35 - 10.10"
     ]
-  }
+  },
+  "users": [
+    {
+      "nama": "Jose Mourinho",
+      "alamat": "Manchester ",
+      "id": 1
+    },
+    {
+      "nama": "Arsene Wenger",
+      "alamat": "North London",
+      "id": 2
+    },
+    {
+      "nama": "Pep Guardiola",
+      "alamat": "Manchester",
+      "id": 3
+    },
+    {
+      "nama": "Mauro Pochettino",
+      "alamat": "North London",
+      "id": 4
+    },
+    {
+      "nama": "Antonio Conte",
+      "alamat": "West London",
+      "id": 5
+    }
+  ]
 }
